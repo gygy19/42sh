@@ -1,0 +1,7 @@
+$nomber=0;
+while [ $nomber < 10 ]
+do
+	echo $nomber;
+	$nomber++;
+done
+echo "Finish"
